@@ -9,14 +9,14 @@
   </div>
 </template>
 
-<script>
+<script> //script
 export default {
   name: "HomePage",
 };
 </script>
 
 <style>
-/* Importt Bootstrapw CSS */
+/* Import Bootstrap CSS */
 @import url("https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css");
 
 /*stylesheet*/
